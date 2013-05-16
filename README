@@ -1,0 +1,13 @@
+Power optimization base on Atmel PicoPower demo on their website
+
+You will need some way to load the code into the ATmega328P.
+Loading using Arduino might work.
+
+NOTE:
+ADC is not setup properly and may or may not work
+
+This release is GNU license located at www.gnu.org/licenses/gpl.html
+Basically it states if my code kills you I am not liable and
+I offer no warranty it will work as stated.
+
+Also if you modify it, you need to release it and etc.
